@@ -1,0 +1,21 @@
+*.class
+*.classpath
+*.iml
+target/
+/.settings/
+eclipse-target/
+**/src/generated/
+**/tmp/
+
+.classpath
+.project
+bin/
+.settings/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
